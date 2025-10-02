@@ -35,7 +35,7 @@ const config = {
   site: "https://portfolio-anshika-ten.vercel.app/",
 
   get ogImg() {
-    return this.site + "/assets/seo/og-image.png";
+    return this.site + "/assets/seo/og-image-v2.png";
   },
   social: {
     twitter: "https://x.com/Tripaanshi",
