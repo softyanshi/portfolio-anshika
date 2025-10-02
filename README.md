@@ -48,12 +48,12 @@ The portfolio website is built using the following tools and technologies:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Abhiz2411/3D-interactive-portfolio.git
+   git clone https://github.com/softyanshi/portfolio-anshika
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd 3D-interactive-portfolio
+   cd portfolio-anshika
    ```
 
 3. Install dependencies:
