@@ -32,7 +32,7 @@ const config = {
   ],
   author: "Anshika Tripathi",
   email: "tripaanshi@gmail.com",
-  site: "https://abhijitzende.com",
+  site: "https://portfolio-anshika-ten.vercel.app/",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
