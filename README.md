@@ -1,14 +1,13 @@
-![Portfolio Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/seo/og-image.png?raw=true)
+<img width="1897" height="893" alt="Screenshot 2025-10-02 103556" src="https://github.com/user-attachments/assets/3aef51ff-1c38-465f-8d60-a377c010a26f" />
+
 
 # 🚀 My Portfolio Website
 
 Welcome to the repository for my personal portfolio website! 🎉 This project is a culmination of creativity, technology, and my dedication to showcasing my skills, projects, and personality in a visually stunning and interactive manner.
 
-### Live preview: https://www.abhijitzende.com/
+### Live preview: https://portfolio-anshika-ten.vercel.app/
 
-![Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/preview_video.gif?raw=true)
 
-https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/preview_video.mp4
 
 This project is **inspired** by the amazing work of [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio). His innovative approach to web design and attention to detail has been a huge influence. Thank you, Naresh! 🙏
 
@@ -105,8 +104,8 @@ A huge shoutout to [Naresh Khatri](https://github.com/Naresh-Khatri/Portfolio) f
 
 Feel free to reach out to me for collaboration, feedback, or just to say hi! 😊
 
-- **Email:** abhijitzende75@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/zende-abhijit/)
+- **Email:** tripaanshi@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tripaanshi/)
 
 ---
 
