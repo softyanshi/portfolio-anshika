@@ -780,8 +780,8 @@ const projects: Project[] = [
     title: "My Portfolio",
     src: "/assets/projects-screenshots/myportfolio/landing.png",
     screenshots: ["assets/projects-screenshots/myportfolio/landing.png"],
-    live: "https://www.abhijitzende.com/",
-    github:"https://github.com/Abhiz2411/3D-interactive-portfolio",
+    live: "https://portfolio-anshika-ten.vercel.app/",
+    github:"https://github.com/softyanshi/portfolio-anshika",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,
@@ -957,7 +957,7 @@ const projects: Project[] = [
             dopest way possible.
           </TypographyP>
           <TypographyP className="font-mono">
-          Horizon is a full-featured fintech banking platform built with Next.js and TypeScript. It connects multiple bank accounts, displays transactions in real-time, enables secure fund transfers, and provides analytics for spending, balances, and categories. The project also demonstrates a complete DevOps pipeline for building, deploying, and monitoring microservices at scale.
+          Horizon is a full-featured fintech banking platform built with Next.js and TypeScript. It connects multiple bank accounts, displays transactions in real-time, enables secure fund transfers, and provides analytics for spending, balances, and categories.
         </TypographyP>
         <ProjectsLinks live={this.live} repo={this.github} />
         <SlideShow
@@ -979,7 +979,7 @@ const projects: Project[] = [
           <li>Funds transfer using Dwolla API</li>
           <li>Transaction history with pagination & filtering</li>
           <li>Responsive UI for desktop, tablet, and mobile</li>
-          <li>Modern DevOps pipeline with automated build, deployment, and monitoring</li>
+          
         </ul>
           
            

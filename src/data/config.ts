@@ -3,7 +3,7 @@ const config = {
   description: {
     long: "Explore the portfolio of Anshika, a Computer Science graduate and strong passion for building web application & Database management with hands-on experience in deploying & automating workflows. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
     short:
-      "Discover the portfolio of Anshika, a AI enthusiast solving real life problems in DevOps and Development.",
+      "Discover the portfolio of Anshika, a AI enthusiast solving real life problems in Development.",
   },
   keywords: [
     "Anshika",
